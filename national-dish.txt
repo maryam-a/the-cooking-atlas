@@ -143,7 +143,7 @@ Panama | Sancocho de gallina,
 Papua New Guinea | Mumu,
 Paraguay | Sopa paraguaya,
 Peru | Ceviche,
-Philippines | Chicken Adobo, Sinigang, Lechon, Sisig, Pancit, Halo-halo, Satti, Ketupat,
+Philippines | Chicken Adobo, Sinigang, Lechon, Sisig, Pancit, Halo-halo, Satti, Ketupat, Lumpia, Chicken Arroz Caldo, Beef Mechado, Ukoy,
 Poland | Bigos, Pierogi, Kotlet schabowy, Żurek, Gołąbki
 Portugal | Cozido à Portuguesa, Bacalhau, Sardinhas, Francesinha,
 Qatar | Machboos,
