@@ -70,8 +70,8 @@ def perform_searches(country, dish_name):
     if not country or not dish_name:
         raise ValueError("The country or dish name was not provided.")
 
-    country_url = SEARCH_URL.format(quote(country))
-    webbrowser.open_new_tab(country_url)
+    # country_url = SEARCH_URL.format(quote(country))
+    # webbrowser.open_new_tab(country_url)
 
     recipe_url = SEARCH_URL.format(
         quote(country + " " + dish_name + " recipe"))
